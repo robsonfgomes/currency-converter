@@ -1,14 +1,21 @@
-.line{
-    display: flex;
-    margin-top: 40px;
-    justify-content: space-around;
+body{
+   background-color: #20232a !important;
+   color: #ffffff !important;
 }
 
 h1{
     text-align: center;
+    font-size: 3.5em !important;
+}
+h3{
+    color: #ffffff !important;
 }
 
-.App{
-    margin: auto;
-    max-width: 900px;
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;    
+    background-color: #0f1115;
 }
