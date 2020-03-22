@@ -1,5 +1,5 @@
 # currency-converter
-Simple currency converter with ReactJS
+Simple currency converter with ReactJS and Semantic-ui
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
